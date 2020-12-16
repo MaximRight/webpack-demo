@@ -1,0 +1,9 @@
+html {
+  display: inline;
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  min-height: 100vh;
+  background-color: teal;
+}
